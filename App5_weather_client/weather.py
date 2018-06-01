@@ -1,9 +1,9 @@
-import requests #package "requests" had to be installed using pip
+import requests  # package "requests" had to be installed using pip
 import bs4
 import collections
 
-WeatherReport = collections.namedtuple('WeatherReport',
-                                       'cond, temp, scale, loc')
+# WeatherReport = collections.namedtuple('WeatherReport', 'cond, temp, scale, loc')
+WeatherReport = collections.namedtuple('WeatherReport', 'cond, temp, loc')
 
 
 def main():
@@ -22,10 +22,9 @@ def main():
     html = get_html_from_web()
     report = get_weather_from_html(html)
 
-    print('The temp in {} is {} {} and {}'.format(
+    print('The temp in {} is {} and {}'.format(
         report.loc,
         report.temp,
-        report.scale,
         report.cond
     ))
 
@@ -66,9 +65,18 @@ def get_weather_from_html(html):
     temp = cleanup_text(temp)
     scale = cleanup_text(scale)
 
+    # Covert temp to C°
+    tempc = temp[0] +temp[1]
+    numc = (float(tempc)-32)/1.8
+    strnumc = "{:.2f}".format(numc)
+    tempc = strnumc + '°C'
+
+    # print('tempc ' + tempc)
+    # print('numc ' + strnumc)
     # print(condition, temp, scale, loc)
     # return condition, temp, scale, loc
-    report = WeatherReport(cond=condition, temp=temp, scale=scale, loc=loc)
+    # report = WeatherReport(cond=condition, temp=temp, scale=scale, loc=loc)
+    report = WeatherReport(cond=condition, temp=tempc, loc=loc)
     return report
 
 
