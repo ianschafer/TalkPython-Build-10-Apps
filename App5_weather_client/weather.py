@@ -1,5 +1,5 @@
 import requests  # package "requests" had to be installed using pip
-import bs4
+import bs4  # bs4 is the package beautifulsoup4
 import collections
 
 # WeatherReport = collections.namedtuple('WeatherReport', 'cond, temp, scale, loc')
@@ -41,8 +41,8 @@ def print_the_header():
 def get_html_from_web():
     url = 'https://www.wunderground.com/weather/za/george'
     response = requests.get(url)
-    # print(response.status_code)
-    # print(response.text[0:250])
+    # print(response.status_code) ... 200 is successful, 404 is not good
+    # print(response.text[0:250]) ... scrapes first 250 characters from url
 
     return response.text
 
