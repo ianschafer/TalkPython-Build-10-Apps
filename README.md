@@ -6,3 +6,6 @@ All console apps.
 
 Weather App5 includes installation and use of external packages from PyPI using pip.
 Also HTTP Clients, screen scraping, tuples.
+
+lolcats App6 includes file folder management in Linux, Windows and OS; more HTTP Clients, binary data files, iterables.
+Also imports os, shutil (shell util), requests, subprocess and platform.
