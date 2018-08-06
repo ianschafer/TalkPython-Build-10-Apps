@@ -92,7 +92,7 @@ def cleanup_text(text: str):
     text = text.strip()
     return text
 
-# Remember "dunder name" is there to prevent main(0 from running if someone else decides to
+# Remember "dunder name" is there to prevent main() from running if someone else decides to
 # use this file and imports it, i.e.main() will only run if the __name__ returns "__main__".
 # You don't have to type it out you can get it from a Live Template by typing main whereupon pyCharm
 # will give you some choices one of which is "if __name__ == '__main__':" ...
