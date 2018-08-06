@@ -4,6 +4,6 @@ print('--------------------------------')
 print()
 
 user_input = input('What is your name? ')
-message = 'Nice to meet you ' + user_input
+message = 'Happy to meet you ' + user_input
 
 print(message)
