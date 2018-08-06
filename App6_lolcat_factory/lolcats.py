@@ -41,7 +41,7 @@ def download_cats(folder):
     print("done.")
 
 
-# Checks which os then selects correct commands to suit
+# Checks which OS then selects correct commands to suit
 def display_cats(folder):
     # open folder
     print('Displaying cats in OS window.')
