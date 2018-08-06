@@ -25,7 +25,7 @@ while guess != the_number:
     elif guess > the_number:
         print('Sorry {}, your guess of {} was too HIGH.'.format(Player_name, guess))
     else:
-        print('Excellent work {}, you won, it was {}!'.format(Player_name, guess))
+        print('Excellent work {}, you succeeded, it was indeed {}!'.format(Player_name, guess))
 
 print('done')
 
