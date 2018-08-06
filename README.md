@@ -6,15 +6,18 @@ All console apps.
 
 App1 - App4 Basic stuff.
 
-Weather App5 includes:
+App5 Weather includes:
 Installation and use of external packages from PyPI using pip.
 Also HTTP Clients, screen scraping, tuples.
 
-lolcats App6 includes:
+App6 lolcats includes:
 File folder management in Linux, Windows and OS; more HTTP Clients, binary data files, iterables.
 Also imports os, shutil (shell util), requests, subprocess and platform.
 
-file_searcher App8 includes;
+App7 Wizard Game includes:
+
+
+App8 file_searcher includes;
 Python 3.3 Generator methods and keyword Yield.
 Processing pipelines of data achieving order 10x mem usage improvement (Example 2GB text files).
 Recursion; factorial and fibonnaci infinite series
