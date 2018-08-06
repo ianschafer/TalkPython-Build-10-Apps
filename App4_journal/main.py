@@ -68,6 +68,7 @@ def add_entry(data):
 # print("__file__ " + __file__)
 # print("__name__ " + __name__)
 
+#USE of dundername
 # For running external files use __name__ to skip a call such as mainLoop() below.
 # The variable __name__ (dundername) reflects which file is running; If we run this file (main.py), dundername
 # is '__main__' so # mainLoop() runs. However, if we run another file e.g. program2.py, dundername will be
