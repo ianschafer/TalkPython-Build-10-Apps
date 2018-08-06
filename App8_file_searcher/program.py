@@ -9,7 +9,7 @@ def main():
     print_header()
     folder = get_folder_from_user()
     if not folder:
-        print("Sorry we can't search that location.")
+        print("Sorry we cannot search that location.")
         return
 
     text = get_search_text_from_user()
