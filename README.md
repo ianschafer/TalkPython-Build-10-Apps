@@ -14,8 +14,8 @@ App6 lolcats includes:
 File folder management in Linux, Windows and OS; more HTTP Clients, binary data files, iterables.
 Also imports os, shutil (shell util), requests, subprocess and platform.
 
-App7 Wizard Game includes:
-
+App7 wizard_battle Game includes:
+A simple game loop.
 
 App8 file_searcher includes;
 Python 3.3 Generator methods and keyword Yield.
