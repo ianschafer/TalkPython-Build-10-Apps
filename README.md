@@ -15,7 +15,7 @@ File folder management in Linux, Windows and OS; more HTTP Clients, binary data 
 Also imports os, shutil (shell util), requests, subprocess and platform.
 
 App7 wizard_battle Game includes:
-A simple game loop.
+A simple game loop. Classes.
 
 App8 file_searcher includes;
 Python 3.3 Generator methods and keyword Yield.
@@ -23,4 +23,8 @@ Processing pipelines of data achieving order 10x mem usage improvement (Example 
 Recursion; factorial and fibonnaci infinite series
 os path operations.
 String searching.
+
+App9
+
+App10
 
