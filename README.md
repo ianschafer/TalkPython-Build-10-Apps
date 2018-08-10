@@ -4,7 +4,9 @@ Exercises from Talk Python Training - Build 10 Apps by Michael C Kennedy
 Python Apps with good examples.
 All console apps.
 
-App1 Basic stuff.
+App1 Basic stuff includes:
+
+
 
 App5 Weather includes:
 Installation and use of external packages from PyPI using pip.
