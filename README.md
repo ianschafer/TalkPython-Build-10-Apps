@@ -17,7 +17,7 @@ App2 Guess That Number Game includes:
   
 App3 Birthday Countdown App includes:
   Sketching program flow.
-  Dates and Times.
+  Dates and Times, differences between dates.
   Debugging in PyCharm.
 
 App4 Journal App includes:
