@@ -21,6 +21,8 @@ App3 Birthday Countdown App includes:
   Debugging in PyCharm.
 
 App4 Journal App includes:
+  Event Loop.
+  Lists and For-in Loops.
   
 App5 Weather includes:
 Installation and use of external packages from PyPI using pip.
