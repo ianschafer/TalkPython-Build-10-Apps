@@ -30,6 +30,8 @@ App4 Journal App includes:
   Importing and using additional python files.
   Importing Modules and Packages.
   File I/O.
+  Complex Conditionals; and, or, not.
+  DocStrings.
   
   
 App5 Weather includes:
