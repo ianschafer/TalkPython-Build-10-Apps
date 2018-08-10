@@ -6,6 +6,7 @@ All console apps.
 
 App1 Hello World includes:
   Variables and Calling functions.
+  PyCharm tour.
 
 App2 Basic stuff includes:
 
