@@ -10,7 +10,7 @@ App1 Hello World includes:
 
 App2 Guess That Number Game includes:
 
-App3 Basic stuff includes:
+App3 Birthday Countdown App includes:
 
 App4 Birthday Countdown App includes:
   Sketching program flow.
