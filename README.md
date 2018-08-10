@@ -10,6 +10,9 @@ App1 Hello World includes:
 
 App2 Guess That Number Game includes:
   Conditionals and Truthiness (8 False Rules, everything else True)
+  Loops
+  Shape of Python code; Suites and Blocks
+  
   
 
 App3 Birthday Countdown App includes:
