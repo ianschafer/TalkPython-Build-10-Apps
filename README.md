@@ -4,13 +4,13 @@ Exercises from Talk Python Training - Build 10 Apps by Michael C Kennedy
 Python Apps with good examples.
 All console apps.
 
-App1 Basic stuff includes:
+App1 Hello World includes:
 
 App2 Basic stuff includes:
 
 App3 Basic stuff includes:
 
-App4 Basic stuff includes:
+App4 Difference between dates includes:
   Sketching program flow.
   Dates and Times.
   Debugging in PyCharm.
