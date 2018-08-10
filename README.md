@@ -8,11 +8,11 @@ App1 Hello World includes:
   Variables and Calling functions.
   PyCharm tour.
 
-App2 Basic stuff includes:
+App2 Guess That Number Game includes:
 
 App3 Basic stuff includes:
 
-App4 Difference between dates includes:
+App4 Birthday Countdown includes:
   Sketching program flow.
   Dates and Times.
   Debugging in PyCharm.
