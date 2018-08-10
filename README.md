@@ -32,6 +32,7 @@ App4 Journal App includes:
   File I/O.
   Complex Conditionals; and, or, not.
   DocStrings.
+  Using __name__ (called "dundername") to enable selective execution.
   
   
 App5 Weather includes:
