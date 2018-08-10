@@ -27,24 +27,26 @@ App3 Birthday Countdown App includes:
 App4 Journal App includes:
   Event Loop.
   Lists and For-in Loops.
+  Importing additional python files.
+  
   
 App5 Weather includes:
-Installation and use of external packages from PyPI using pip.
-Also HTTP Clients, screen scraping, tuples.
+  Installation and use of external packages from PyPI using pip.
+  Also HTTP Clients, screen scraping, tuples.
 
 App6 lolcats includes:
-File folder management in Linux, Windows and OS; more HTTP Clients, binary data files, iterables.
-Also imports os, shutil (shell util), requests, subprocess and platform.
+  File folder management in Linux, Windows and OS; more HTTP Clients, binary data files, iterables.
+  Also imports os, shutil (shell util), requests, subprocess and platform.
 
 App7 wizard_battle Game includes:
-A simple game loop. Classes.
+  A simple game loop. Classes.
 
 App8 file_searcher includes;
-Python 3.3 Generator methods and keyword Yield.
-Processing pipelines of data achieving order 10x mem usage improvement (Example 2GB text files).
-Recursion; factorial and fibonnaci infinite series
-os path operations.
-String searching.
+  Python 3.3 Generator methods and keyword Yield.
+  Processing pipelines of data achieving order 10x mem usage improvement (Example 2GB text files).
+  Recursion; factorial and fibonnaci infinite series
+  os path operations.
+  String searching.
 
 App9
 
