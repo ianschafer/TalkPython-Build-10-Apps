@@ -5,16 +5,16 @@ Python Apps with good examples.
 All console apps.
 
 App1 Hello World includes:
+  Print function.
   Variables and Calling functions.
   PyCharm tour.
 
 App2 Guess That Number Game includes:
-  Conditionals and Truthiness (8 False Rules, everything else True)
-  Loops
-  Shape of Python code; Suites and Blocks
+  Conditionals and Truthiness (8 False Rules, everything else True).
+  Loops.
+  Shape of Python code; Suites and Blocks, indentation and free space.
+  String Formatting.
   
-  
-
 App3 Birthday Countdown App includes:
   Sketching program flow.
   Dates and Times.
