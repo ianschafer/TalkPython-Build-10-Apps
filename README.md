@@ -19,6 +19,7 @@ App3 Birthday Countdown App includes:
   Sketching program flow.
   Dates and Times, differences between dates.
   Debugging in PyCharm.
+    Break-points in the Gutter.
 
 App4 Journal App includes:
   Event Loop.
