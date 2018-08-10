@@ -21,7 +21,7 @@ App3 Birthday Countdown App includes:
   Debugging in PyCharm.
     Debugger tab at bottom.
     Break-points in the Gutter.
-    Right-click on Break-Points for more features; e.g. Find Conditions.
+    Right-click on Break-Points for more features; e.g. Find Conditions. (Dot symbol changes, gets question mark)
     Step-over (F8), Step-into, Step-out, Set Value.
 
 App4 Journal App includes:
