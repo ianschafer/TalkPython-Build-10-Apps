@@ -10,7 +10,7 @@ App1 Hello World includes:
   PyCharm tour.
 
 App2 Guess That Number Game includes:
-  Conditionals and Truthiness (8 False Rules, everything else True).
+  Conditionals and Truthiness (8 False Rules, everything else is True).
   Loops.
   Shape of Python code; Suites and Blocks, indentation and free space.
   String Formatting.
