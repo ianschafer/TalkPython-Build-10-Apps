@@ -12,7 +12,7 @@ App2 Guess That Number Game includes:
 
 App3 Basic stuff includes:
 
-App4 Birthday Countdown includes:
+App4 Birthday Countdown App includes:
   Sketching program flow.
   Dates and Times.
   Debugging in PyCharm.
