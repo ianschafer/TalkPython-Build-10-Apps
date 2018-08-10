@@ -27,7 +27,9 @@ App3 Birthday Countdown App includes:
 App4 Journal App includes:
   Event Loop.
   Lists and For-in Loops.
-  Importing additional python files.
+  Importing and using additional python files.
+  Importing Modules and Packages.
+  File I/O.
   
   
 App5 Weather includes:
