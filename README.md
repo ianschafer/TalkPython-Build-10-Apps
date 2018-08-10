@@ -11,11 +11,11 @@ App1 Hello World includes:
 App2 Guess That Number Game includes:
 
 App3 Birthday Countdown App includes:
-
-App4 Journal App includes:
   Sketching program flow.
   Dates and Times.
   Debugging in PyCharm.
+
+App4 Journal App includes:
   
 App5 Weather includes:
 Installation and use of external packages from PyPI using pip.
