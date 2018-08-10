@@ -11,7 +11,9 @@ App2 Basic stuff includes:
 App3 Basic stuff includes:
 
 App4 Basic stuff includes:
-  Sketching program structure.
+  Sketching program flow.
+  Dates and Times.
+  
 
 
 App5 Weather includes:
