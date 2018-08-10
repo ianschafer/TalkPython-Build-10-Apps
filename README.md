@@ -13,9 +13,8 @@ App3 Basic stuff includes:
 App4 Basic stuff includes:
   Sketching program flow.
   Dates and Times.
+  Debugging in PyCharm.
   
-
-
 App5 Weather includes:
 Installation and use of external packages from PyPI using pip.
 Also HTTP Clients, screen scraping, tuples.
