@@ -5,6 +5,7 @@ Python Apps with good examples.
 All console apps.
 
 App1 Hello World includes:
+  Variables and Calling functions.
 
 App2 Basic stuff includes:
 
