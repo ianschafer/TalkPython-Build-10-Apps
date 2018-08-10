@@ -19,9 +19,9 @@ def get_user_birthday():
 
 
 def compute_days_between_dates(birth_date, target_date):
-    this_year = datetime.date(target_date.year, birth_date.month, birth_date.day)
+    birthdate_this_year = datetime.date(target_date.year, birth_date.month, birth_date.day)
 
-    numDays = this_year - target_date
+    numDays = birthdate_this_year - target_date
     return numDays.days
 
 
