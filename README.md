@@ -34,6 +34,7 @@ App4 Journal App includes:
   DocStrings.
   Using __name__ (called "dundername") to enable selective execution with imports.
   OS Independent path management.
+  Live templates.
   
   
 App5 Weather includes:
