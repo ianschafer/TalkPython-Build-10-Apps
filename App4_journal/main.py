@@ -36,7 +36,7 @@ def run_event_loop():
         elif cmd != 'x' and cmd:
             print("Sorry, we don't understand '{}'.".format(cmd))
 
-    print('Done, goodbye.')
+    print('Done ... goodbye.')
     journal.save(journal_name, journal_data)
 
 
