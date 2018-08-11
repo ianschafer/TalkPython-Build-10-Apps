@@ -24,7 +24,7 @@ App3 Birthday Countdown App includes:
     Right-click on Break-Points for more features; e.g. Find Conditions. (Dot symbol changes, gets question mark)
     Step-over (F8), Step-into, Step-out, Set Value.
 
-App4 Journal App includes:
+App4 Journal App (Diary) includes:
   Event Loop.
   Lists and For-in Loops.
   Importing and using additional python files.
