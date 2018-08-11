@@ -30,7 +30,7 @@ App4 Journal App (Diary) includes:
   Importing and using additional python files.
   Importing Modules and Packages (If the file path exists; os.path.exists(filename)).
   Multiple files.
-  File I/O.
+  File I/O; open(filename, 'w'), 
   Complex Conditionals; and, or, not.
   DocStrings.
   Using __name__ (called "dundername") to enable selective execution with imports.
