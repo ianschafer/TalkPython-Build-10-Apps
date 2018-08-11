@@ -29,7 +29,7 @@ App4 Journal App (Diary) includes:
   Lists and For-in Loops.
   Importing and using additional python files.
   Importing Modules and Packages (If the file path exists; os.path.exists(filename)).
-  Multiple files.
+  Context manager "with".
   File I/O; using import os,  my_file = open(filename, 'w'), using os.path.abspath()
   Complex Conditionals; and, or, not.
   DocStrings.
