@@ -28,7 +28,7 @@ App4 Journal App (Diary) includes:
   Event Loop.
   Lists and For-in Loops.
   Importing and using additional python files.
-  Importing Modules and Packages.
+  Importing Modules and Packages (If the file path exists; os.path.exists(filename)).
   Multiple files.
   File I/O.
   Complex Conditionals; and, or, not.
