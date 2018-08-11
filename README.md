@@ -36,8 +36,8 @@ App4 Journal App (Diary) includes:
   Using __name__ (called "dundername") to enable selective execution with imports.
   OS Independent path management.
   Live templates.
-  
-  
+  Order independent methods.
+    
 App5 Weather includes:
   Installation and use of external packages from PyPI using pip.
   Also HTTP Clients, screen scraping, tuples.
