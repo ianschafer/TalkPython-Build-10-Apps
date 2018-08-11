@@ -29,6 +29,7 @@ App4 Journal App includes:
   Lists and For-in Loops.
   Importing and using additional python files.
   Importing Modules and Packages.
+  Multiple files.
   File I/O.
   Complex Conditionals; and, or, not.
   DocStrings.
